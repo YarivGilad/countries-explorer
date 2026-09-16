@@ -1,7 +1,7 @@
-export default function CountryCard({ country }) {
+export default function CountryCard({ country, onSelect }) {
   return (
-    <div className="country-card">
+    <button className="country-card" onClick={() => onSelect(country.code)}>
       <span className="flag">{country.flag}</span> {country.name}
-    </div>
+    </button>
   );
 }

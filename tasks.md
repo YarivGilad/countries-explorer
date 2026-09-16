@@ -2,7 +2,7 @@
 
 - [x] Task 1: Show the country list from `src/data/countries.json`.
   Done when: I open the app and see every country with its flag and name.
-- [ ] Task 2: Click a country to show its details in a panel next to the list.
+- [x] Task 2: Click a country to show its details in a panel next to the list.
   Done when: before a click I see "Pick a country"; after clicking Japan I see Tokyo, its population and languages.
 - [ ] Task 3: Add tests for the three acceptance criteria in PRD.md.
   Done when: `npm test` passes.
