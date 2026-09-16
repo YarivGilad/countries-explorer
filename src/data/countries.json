@@ -1,0 +1,218 @@
+[
+  {
+    "code": "ARG",
+    "name": "Argentina",
+    "flag": "🇦🇷",
+    "capital": "Buenos Aires",
+    "region": "Americas",
+    "population": 45851378,
+    "languages": ["Guaraní", "Spanish"]
+  },
+  {
+    "code": "AUS",
+    "name": "Australia",
+    "flag": "🇦🇺",
+    "capital": "Canberra",
+    "region": "Oceania",
+    "population": 27614411,
+    "languages": ["English"]
+  },
+  {
+    "code": "BRA",
+    "name": "Brazil",
+    "flag": "🇧🇷",
+    "capital": "Brasília",
+    "region": "Americas",
+    "population": 212812405,
+    "languages": ["Portuguese"]
+  },
+  {
+    "code": "CAN",
+    "name": "Canada",
+    "flag": "🇨🇦",
+    "capital": "Ottawa",
+    "region": "Americas",
+    "population": 41651653,
+    "languages": ["English", "French"]
+  },
+  {
+    "code": "EGY",
+    "name": "Egypt",
+    "flag": "🇪🇬",
+    "capital": "Cairo",
+    "region": "Africa",
+    "population": 118365995,
+    "languages": ["Arabic"]
+  },
+  {
+    "code": "FRA",
+    "name": "France",
+    "flag": "🇫🇷",
+    "capital": "Paris",
+    "region": "Europe",
+    "population": 68720337,
+    "languages": ["French"]
+  },
+  {
+    "code": "DEU",
+    "name": "Germany",
+    "flag": "🇩🇪",
+    "capital": "Berlin",
+    "region": "Europe",
+    "population": 83491249,
+    "languages": ["German"]
+  },
+  {
+    "code": "GHA",
+    "name": "Ghana",
+    "flag": "🇬🇭",
+    "capital": "Accra",
+    "region": "Africa",
+    "population": 35064272,
+    "languages": ["English"]
+  },
+  {
+    "code": "GRC",
+    "name": "Greece",
+    "flag": "🇬🇷",
+    "capital": "Athens",
+    "region": "Europe",
+    "population": 10413962,
+    "languages": ["Greek"]
+  },
+  {
+    "code": "IND",
+    "name": "India",
+    "flag": "🇮🇳",
+    "capital": "New Delhi",
+    "region": "Asia",
+    "population": 1463865525,
+    "languages": ["English", "Hindi", "Tamil"]
+  },
+  {
+    "code": "ISR",
+    "name": "Israel",
+    "flag": "🇮🇱",
+    "capital": "Jerusalem",
+    "region": "Asia",
+    "population": 10122800,
+    "languages": ["Arabic", "Hebrew"]
+  },
+  {
+    "code": "ITA",
+    "name": "Italy",
+    "flag": "🇮🇹",
+    "capital": "Rome",
+    "region": "Europe",
+    "population": 58915656,
+    "languages": ["Italian"]
+  },
+  {
+    "code": "JAM",
+    "name": "Jamaica",
+    "flag": "🇯🇲",
+    "capital": "Kingston",
+    "region": "Americas",
+    "population": 2837077,
+    "languages": ["English", "Jamaican Patois"]
+  },
+  {
+    "code": "JPN",
+    "name": "Japan",
+    "flag": "🇯🇵",
+    "capital": "Tokyo",
+    "region": "Asia",
+    "population": 123366734,
+    "languages": ["Japanese"]
+  },
+  {
+    "code": "KEN",
+    "name": "Kenya",
+    "flag": "🇰🇪",
+    "capital": "Nairobi",
+    "region": "Africa",
+    "population": 57532493,
+    "languages": ["English", "Swahili"]
+  },
+  {
+    "code": "MEX",
+    "name": "Mexico",
+    "flag": "🇲🇽",
+    "capital": "Mexico City",
+    "region": "Americas",
+    "population": 131946900,
+    "languages": ["Spanish"]
+  },
+  {
+    "code": "MAR",
+    "name": "Morocco",
+    "flag": "🇲🇦",
+    "capital": "Rabat",
+    "region": "Africa",
+    "population": 38430770,
+    "languages": ["Arabic", "Berber"]
+  },
+  {
+    "code": "NLD",
+    "name": "Netherlands",
+    "flag": "🇳🇱",
+    "capital": "Amsterdam",
+    "region": "Europe",
+    "population": 18087633,
+    "languages": ["Dutch"]
+  },
+  {
+    "code": "NZL",
+    "name": "New Zealand",
+    "flag": "🇳🇿",
+    "capital": "Wellington",
+    "region": "Oceania",
+    "population": 5324700,
+    "languages": ["English", "Māori", "New Zealand Sign Language"]
+  },
+  {
+    "code": "NOR",
+    "name": "Norway",
+    "flag": "🇳🇴",
+    "capital": "Oslo",
+    "region": "Europe",
+    "population": 5610870,
+    "languages": ["Norwegian Nynorsk", "Norwegian Bokmål", "Sami"]
+  },
+  {
+    "code": "PER",
+    "name": "Peru",
+    "flag": "🇵🇪",
+    "capital": "Lima",
+    "region": "Americas",
+    "population": 34576665,
+    "languages": ["Aymara", "Quechua", "Spanish"]
+  },
+  {
+    "code": "KOR",
+    "name": "South Korea",
+    "flag": "🇰🇷",
+    "capital": "Seoul",
+    "region": "Asia",
+    "population": 51684564,
+    "languages": ["Korean"]
+  },
+  {
+    "code": "THA",
+    "name": "Thailand",
+    "flag": "🇹🇭",
+    "capital": "Bangkok",
+    "region": "Asia",
+    "population": 71619863,
+    "languages": ["Thai"]
+  },
+  {
+    "code": "USA",
+    "name": "United States",
+    "flag": "🇺🇸",
+    "capital": "Washington D.C.",
+    "region": "Americas",
+    "population": 341784857,
+    "languages": ["English"]
+  }
+]
