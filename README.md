@@ -1,16 +1,30 @@
-# React + Vite
+# Countries Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A small React app for learning React: browse 24 countries and click one to see its capital, population and languages.
+It uses plain JavaScript, React and Vite. `PRD.md` says what the app should do, and `tasks.md` lists the tasks.
 
-Currently, two official plugins are available:
+Open in the browser: (StackBlitz link coming)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Run it on your computer
 
-## React Compiler
+You need Node.js 24 LTS.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+```bash
+npm install
+npm run dev
+```
 
-## Expanding the Oxlint configuration
+Then open the address that `npm run dev` prints, usually http://localhost:5173.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Run the tests
+
+```bash
+npm test
+```
+
+## Data sources
+
+All data is in `src/data/countries.json`.
+
+- Name, flag, capital, region and languages: [mledoze/countries](https://github.com/mledoze/countries) (ODbL-1.0 license).
+- Population: [World Bank indicator SP.POP.TOTL](https://data.worldbank.org/indicator/SP.POP.TOTL), values for the year 2025 (CC BY 4.0 license).
