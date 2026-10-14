@@ -2,7 +2,7 @@
 
 This is a teaching project. First-year students read this code, so keep it easy to read.
 
-- Plain JavaScript and JSX. No TypeScript.
+- TypeScript and TSX. Give every prop and every data shape a type; no `any`. Shared types live in `src/types.ts`.
 - Function components and hooks only.
 - Do not add libraries without asking first.
 - One component per file in `src/components`, named in PascalCase.

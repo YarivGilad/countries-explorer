@@ -1,10 +1,13 @@
 import { useState } from 'react';
-import countries from './data/countries.json';
+import countriesData from './data/countries.json';
+import type { Country } from './types';
 import CountryList from './components/CountryList';
 import CountryDetail from './components/CountryDetail';
 
+const countries: Country[] = countriesData;
+
 export default function App() {
-  const [selectedCode, setSelectedCode] = useState(null);
+  const [selectedCode, setSelectedCode] = useState<string | null>(null);
   const selectedCountry = countries.find((country) => country.code === selectedCode);
 
   return (

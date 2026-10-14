@@ -1,4 +1,10 @@
-export default function CountryDetail({ country }) {
+import type { Country } from '../types';
+
+type CountryDetailProps = {
+  country: Country | undefined;
+};
+
+export default function CountryDetail({ country }: CountryDetailProps) {
   if (!country) {
     return <section className="country-detail">Pick a country</section>;
   }

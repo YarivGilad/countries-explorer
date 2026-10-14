@@ -1,7 +1,7 @@
 # Countries Explorer
 
 A small React app for learning React: browse 24 countries and click one to see its capital, population and languages.
-It uses plain JavaScript, React and Vite. `PRD.md` says what the app should do, and `tasks.md` lists the tasks.
+It uses TypeScript, React and Vite. `PRD.md` says what the app should do, and `tasks.md` lists the tasks.
 
 Open in the browser, no install: https://stackblitz.com/github/YarivGilad/countries-explorer
 
